@@ -28,7 +28,7 @@
 #define DEVICE 0  // GPU id
 #define NMS_THRESH 0.4
 #define BBOX_CONF_THRESH 0.5
-#define BATCH_SIZE 1
+#define BATCH_SIZE 4
 
 using namespace nvinfer1;
 
